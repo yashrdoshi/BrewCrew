@@ -10,7 +10,7 @@ It's a app with allows users to store their preferences for coffee like Number o
 
 # UI of App
 
-<img src="UI/SignIn.png" width="230" height="390"/>       <img src="UI/Register.png" width="230" height="390"/>     <img src="UI/Home.png" width="230" height="390"/>
+<img src="UI/SignIn.png" width="230" height="390"/>       <img src="UI/Register.png" width="230" height="390"/>   <img src="UI/Home.png" width="230" height="390"/> <img src="UI/Update.png" width="230" height="390"/>
 
 
 
