@@ -1,4 +1,4 @@
-# brew_crew
+# Brew_Crew
 
 A Flutter project.
 
@@ -6,7 +6,7 @@ A Flutter project.
 
 This project is a Flutter application using Firebase as Backend.
 
-It's a app with allows users to store their preferences for coffee like Number of Sugar cubes, Strength of coffee.
+It allows a group of users to store their preferences for coffee. Preferences like Number of Sugar cubes, Strength of coffee can be stored.
 
 # UI of App
 
