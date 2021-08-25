@@ -1,16 +1,18 @@
-# brew_crew
+# Brew_Crew
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application using Firebase as Backend.
 
-A few resources to get you started if this is your first Flutter project:
+It allows a group of users to store their preferences for coffee. Preferences like Number of Sugar cubes, Strength of coffee can be stored.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# UI of App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="UI/SignIn.png" width="230" height="390"/>       <img src="UI/Register.png" width="230" height="390"/>   <img src="UI/Home.png" width="230" height="390"/> <img src="UI/Update.png" width="230" height="390"/>
+
+
+
+
+
